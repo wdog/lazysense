@@ -13,13 +13,21 @@ for a fast **non-interactive CLI** (scripting/cron-friendly).
 
 ## Screenshots
 
-| Main menu | Firewall rules (filtered) |
-|---|---|
-| ![menu](docs/screenshots/menu.svg) | ![rules](docs/screenshots/rules.svg) |
+**Main menu**
 
-| DHCP leases | Aliases |
-|---|---|
-| ![leases](docs/screenshots/leases.svg) | ![aliases](docs/screenshots/aliases.svg) |
+<img src="docs/screenshots/menu.svg" width="800">
+
+**Firewall rules (filtered)**
+
+<img src="docs/screenshots/rules.svg" width="800">
+
+**DHCP leases**
+
+<img src="docs/screenshots/leases.svg" width="800">
+
+**Aliases**
+
+<img src="docs/screenshots/aliases.svg" width="800">
 
 *(sample data, not a real network)*
 
