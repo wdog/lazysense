@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 backups/
+_screenshot_gen.py

@@ -11,6 +11,18 @@ for a fast **non-interactive CLI** (scripting/cron-friendly).
 ./lazysense.py host-alias PRINTER_LAN 192.168.1.50
 ```
 
+## Screenshots
+
+| Main menu | Firewall rules (filtered) |
+|---|---|
+| ![menu](docs/screenshots/menu.svg) | ![rules](docs/screenshots/rules.svg) |
+
+| DHCP leases | Aliases |
+|---|---|
+| ![leases](docs/screenshots/leases.svg) | ![aliases](docs/screenshots/aliases.svg) |
+
+*(sample data, not a real network)*
+
 ## Features
 
 - 🖥️ **TUI**: keyboard + mouse navigation, live filters on firewall rules
